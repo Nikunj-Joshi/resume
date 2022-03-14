@@ -68,7 +68,8 @@ footer_show_references: false
 
 # Build settings
 # theme: resume-src (Use this is you are hosting your resume yourself)
-remote_theme: sproogen/resume-src
+theme: resume-src
+# remote_theme: sproogen/resume-src
 
 sass:
   sass_dir: _sass
